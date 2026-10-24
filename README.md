@@ -1,7 +1,8 @@
 <div align="center">
 
   <!-- DYNAMIC EDITORIAL HEADER BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=080b0e&height=220&section=header&text=AETHYY.DEV%20%E2%80%94%20%E5%89%B5%E9%80%A0&fontSize=42&fontColor=f4f1ea&animation=fadeIn&fontAlignY=42&desc=%E3%83%A0%E3%83%8F%E3%83%B3%E3%83%9E%E3%83%89%E3%83%BB%E3%82%A4%E3%83%AB%E3%83%AF%E3%83%B3%20%7C%20FULL-STACK%20DEVELOPER%20%26%20CREATIVE%20THINKER&descAlignY=68&descSize=13&stroke=38bdf8&strokeWidth=1" width="100%" alt="Aethyy.dev Header" />
+  <!-- Ganti bagian DYNAMIC EDITORIAL HEADER BANNER dengan kode ini -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080b0e,100:10171c&height=200&section=header&text=AETHYY.DEV&fontSize=50&fontColor=f4f1ea&fontAlignY=38&desc=MUHAMMAD%20IRWAN%20%E2%80%94%20FULL-STACK%20DEVELOPER&descAlignY=62&descSize=15&stroke=38bdf8&strokeWidth=1" width="100%" alt="Aethyy.dev Header" />
 
   <!-- ANIMATED TYPING SUBTITLE -->
   <a href="https://git.io/typing-svg">
