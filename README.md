@@ -19,7 +19,7 @@
     <a href="https://linkedin.com">
       <img src="https://img.shields.io/badge/LINKEDIN-MUHAMMAD%20IRWAN-080b0e?style=for-the-badge&logo=linkedin&logoColor=38bdf8&labelColor=10171c" alt="LinkedIn" />
     </a>
-    <a href="#">
+    <a href="https://aethyy.vercel.app">
       <img src="https://img.shields.io/badge/PORTFOLIO-AETHYY.DEV-080b0e?style=for-the-badge&logo=vercel&logoColor=38bdf8&labelColor=10171c" alt="Portfolio" />
     </a>
     <img src="https://img.shields.io/badge/LOCATION-CIREBON%2C%20ID%20(GMT%2B7)-080b0e?style=for-the-badge&labelColor=10171c&color=38bdf8" alt="Location" />
